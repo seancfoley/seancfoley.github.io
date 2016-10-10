@@ -1,0 +1,6 @@
+{
+  "name": "Seancfoley.GitHub.io",
+  "tagline": "User pages for Sean C Foley",
+  "body": "# Sean C Foley\r\n\r\n\r\n[**View Profile**](https://github.com/seancfoley)\r\n\r\nProjects\r\n\r\n* [Japt](https://seancfoley.github.io/Japt-Bytecode-Optimizer-for-Java/) - Bytecode optimization tool written in Java to ease development and deployment of Java\r\n* [IPAddress](https://seancfoley.github.io/IPAddress/) - Java library for handling IP addresses, both IPv4 and IPv6\r\n* [MJVMK](https://seancfoley.github.io/mjvmk/) - The Micro Java Virtual Machine Kernel is a portable preemptive real-time kernel with an integrated CLDC Java virtual machine designed for embedded systems.  Written in C, x86 assembly code, and Java.\r\n* [Functional Doclet for Javadoc](https://github.com/seancfoley/Functional-Doclet-for-Javadoc) - produces Javadoc with a more functional perspective\r\n* [High Performance C++ Queues](https://github.com/seancfoley/High-Performance-CPP-Queues) - High performance C++ implementation of producer/consumer queue architecture\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
